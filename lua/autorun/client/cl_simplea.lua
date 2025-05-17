@@ -1,4 +1,3 @@
----@diagnostic disable: undefined-global
 local god = "God mode: OFF"
 local commands = {"!cmds - list of commands","!god/!ungod - God mode","!kill - Kills the player","!hp - Set hp","!strip - remove all weapons from inventory","!hands on/off - toggle spawning with hands"}
 local admin = {"!cmds - list of commands","!god (user)/!ungod (user) - God mode","!kill (user) - Kills the player","!hp - set hp","!strip - remove all weapons from inventory","!hands on/off - toggle spawning with hands"}
